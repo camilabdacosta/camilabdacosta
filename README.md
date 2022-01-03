@@ -13,7 +13,7 @@
     <img lign="center" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'>
     <img lign="center" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg'>
     <img lign="center" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg'>
-
+ <img lign="center" height="30" width="40" src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
 </div>
   
   ##
