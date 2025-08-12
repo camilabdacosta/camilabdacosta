@@ -1,13 +1,5 @@
-<!-- Cabeçalho Estático e Visual -->
-<p align="center">
-  <a href="https://github.com/camilabdacosta">
-    <img src="https://raw.githubusercontent.com/camilabdacosta/camilabdacosta/main/assets/profile_header.png" alt="Olá, eu sou a Camila B. da Costa - Desenvolvedora Back-end">
-  </a>
-</p>
-
+<h1 align="center">👩🏻‍💻 Olá, eu sou a Camila B. da Costa!</h1>
 <h3 align="center">Construindo o futuro do Back-end, um microsserviço por vez!</h3>
-
----
 
 ### 👋 Sobre Mim
 
