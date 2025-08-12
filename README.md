@@ -34,3 +34,45 @@ Sou uma desenvolvedora Back-end apaixonada por criar soluções robustas e escal
 </p>
 
 ---
+<h1 align="center">🇺🇸 English version</h1>
+<h1 align="center">👩🏻‍💻 Hi, I'm Camila B. da Costa!</h1>
+<h3 align="center">Building the future of Back-end, one microservice at a time!</h3>
+
+---
+
+### 👋 About Me
+
+I'm a Back-end developer passionate about creating robust and scalable solutions. With experience in **REST APIs**, **microservices**, and **RESTful** architectures, I'm always looking to optimize and innovate. Currently, I'm diving deep into the world of **Go (Golang)** to expand my boundaries and build even more efficient systems.
+
+- 🔭 My passion is **Back-end** development.
+- 🌱 I'm focused on improving my skills in **Go (Golang)**.
+- 💡 I love unraveling the complexity of distributed systems and optimizing performance.
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/camila-bernardino-da-costa/ )**
+
+---
+
+### 🛠️ My Tools and Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,java,spring,javascript,mysql,idea,git,docker&perline=4" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/camilabdacosta">
+    <!-- Stats Card -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilabdacosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&bg_color=0d1117" alt="Camila's GitHub Stats"/>
+    <!-- Top Langs Card -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabdacosta&layout=compact&langs_count=7&theme=dark&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&bg_color=0d1117" alt="Camila's Top Languages"/>
+  </a>
+</p>
+
+---
+
+
+
